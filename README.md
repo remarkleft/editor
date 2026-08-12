@@ -8,7 +8,8 @@
 Markleft keeps comments, discussions, and proposed changes *in the Markdown file itself*. Open a local document, leave precise feedback on text, blocks, code, images, SVGs, tables, and Mermaid diagrams, then review AI suggestions in context before accepting them.
 
 <!-- markleft:block id="bd7cf28d" -->
-![Markleft editor with anchored review comments](docs/assets/markleft-editor.png)
+
+https://github.com/user-attachments/assets/e33f19bd-b707-4922-bde7-741753568884
 
 <!-- markleft:block id="b66c9860" -->
 ## Why Markleft
@@ -53,9 +54,6 @@ The editor currently starts as a Bookmarklet in chrome. 
 3. Click on the bookmarklet - and edit the file
 4. To save the file the app will ask for permission to read and write the parent folder
 
-
-
-https://github.com/user-attachments/assets/e33f19bd-b707-4922-bde7-741753568884
 
 
 
