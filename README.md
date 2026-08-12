@@ -53,6 +53,12 @@ The editor currently starts as a Bookmarklet in chrome. 
 3. Click on the bookmarklet - and edit the file
 4. To save the file the app will ask for permission to read and write the parent folder
 
+
+
+https://github.com/user-attachments/assets/e33f19bd-b707-4922-bde7-741753568884
+
+
+
 <!-- markleft:block id="b766a788" -->
 ## Status
 
